@@ -1,6 +1,7 @@
 # 🌊 संकेतEdge
 
 > **An Edge AI-powered Multi-Hazard Disaster Monitoring System**
+
 > Built for **HACKSAGON 2025** (ABV-IIITM Gwalior × IEEE MP Section)
 
 ## 📖 Overview
